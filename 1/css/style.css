@@ -1,0 +1,157 @@
+@import url(reset.css);
+
+body {
+	height:100%;	
+}
+
+h1 {
+	 padding-right: 230px;
+	 font-size: 32px; 
+	 color: #FFFFFF; 
+	 font-weight: bold;
+	 font-style: italic;	 
+}
+
+h2 {
+	font-family: tahoma;
+	font-size: 25px;
+	color: #000000;
+	font-weight: bold;
+	font-style: italic;
+}
+
+h3 {	
+	font-size: 30px;
+	color: #000000;
+	font-weight: bold;	
+}
+
+#wrapper {	
+	margin: 0 auto; 
+}
+
+#header {
+	overflow: hidden;	
+	height: 271px;
+	position: relative;
+}
+
+#bg2 {
+	height: 231px;
+	float:left;
+	width:100%;
+	overflow: hidden;
+}
+
+#img_city {
+	height: 266px;
+	width: 100%;	
+	background-image: url(../files/index_09.jpg);
+	float: left;
+}
+
+#logo {	
+	background-image: url(../files/logo.jpg);	
+	height: 231px; 
+	width: 236px;
+	background-size: cover;	
+	right: 0;
+}
+
+#gerb {
+	float: left;
+	margin-left: 47%;	
+}
+
+#content {
+	overflow: hidden;
+	margin: auto;
+	display:table;
+	
+}
+
+#menu {
+	float: left;
+	background-color: rgb(51, 153, 204);
+	width: 200px;	
+	height: 100%;
+	display:table-cell;
+	padding-bottom: 20000px;
+    margin-bottom: -20000px
+}
+
+#link {
+	padding-left: 10px;
+}
+
+#menu ul {
+	padding-left: 15px;
+	padding-top: 15px;
+	
+}
+
+#menu ul li {
+	color: #ffffff;
+	list-style-type: disc;
+	font-size: 12px;	
+	margin-left: 10px;	
+	margin-bottom: 15px;
+}
+
+#menu ul li a {
+	color: #ffffff	
+}
+
+#news {
+	background-color: rgb(153, 204, 255);
+	margin: 0 auto;
+	overflow: hidden;
+	height: 100%;	
+}
+
+#opisanie {
+	margin: 0 auto;	
+	font-size: 19px;
+	color: #000000;
+	font-style:italic;
+	font-weight: bold;
+}
+
+#info .text {
+	margin: 0 auto;		
+	color: #000000;	
+	font-weight: bold;
+}
+
+#info {
+	overflow: hidden;
+	padding-left: 17px;
+}
+
+#ps{
+	float: left;
+	margin-left: 47%;
+	color: #FFFFFF;
+	margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
